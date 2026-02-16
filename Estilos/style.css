@@ -54,3 +54,11 @@ section#login > section#formulario {
     padding: 10px;
 
 }
+section#login > section#formulario > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+section#formulario > p {
+    font-size: 0.8em;
+}
